@@ -1,2 +1,2 @@
 # Colab-samples
-samples be loaded by Colab
+Samples to be loaded by Colab
